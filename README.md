@@ -1,2 +1,3 @@
 # HYPERSPECTRAL-IMAGE-CLASSIFICATION-
 This Dataset contains the complete datacube collected from the Salinas scene. where hyperspectral data measures can be implemented.These is the scene acquired by the AVIRIS sensor during flight campaign over Salinas Valley, California. The number of spectral band is 203 for Salinas scene. Salinas scene is 512*512 pixels and 217 Samples in the images. The geometric resolution is 3.7 meters. Image ground truths differentiate 16 classes each.
+Download Dataset:- www.ehu.eus/ccwintco/uploads/a/a3/Salinas_corrected.mat , www.ehu.eus/ccwintco/uploads/f/fa/Salinas_gt.mat , www.ehu.eus/ccwintco/uploads/f/f1/Salinas.mat
